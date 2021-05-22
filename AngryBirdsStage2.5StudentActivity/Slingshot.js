@@ -1,0 +1,8 @@
+class Slingshot{
+    constructor(){
+        
+    }
+    display(){
+
+    }
+}
